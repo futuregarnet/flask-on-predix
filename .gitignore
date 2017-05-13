@@ -2,3 +2,6 @@
 __pycache__/
 *.sqlite
 venv/
+migrations/
+postman/flask_on_predix_local.json
+postman/flask_on_predix_prod.json
